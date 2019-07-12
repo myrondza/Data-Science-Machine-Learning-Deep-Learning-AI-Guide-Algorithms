@@ -1,0 +1,42 @@
+﻿user_id,item_id,item_count,title
+101,1,1,Pizza
+102,2,2,Momo
+103,3,4,Burger
+104,4,1,French Fries
+105,5,1,Roll
+106,6,1,Ice Cream
+107,7,2,Subway
+108,8,1,Thai Food
+109,9,1,Fried Rice
+110,10,1,Cold Drink
+111,11,2,Chicken Wings
+112,12,4,Ice Cream
+113,13,5,Roll
+114,14,1,Momo
+115,15,2,Wraps
+116,16,1,Noodles
+117,17,2,Roll
+118,18,2,Pizza
+119,19,2,Pizza
+120,20,1,Ice Cream
+121,21,4,Wraps
+122,22,5,Burger
+123,23,1,Burger
+124,24,2,Noodles
+111,25,1,Noodles
+112,1,1,Pizza
+113,2,2,Momo
+114,3,4,Burger
+115,4,1,French Fries
+116,5,1,Roll
+102,6,1,Ice Cream
+103,7,2,Subway
+104,8,1,Thai Food
+105,9,1,Fried Rice
+106,10,1,Cold Drink
+102,11,2,Chicken Wings
+103,12,4,Ice Cream
+104,13,5,Roll
+105,14,1,Momo
+106,15,2,Wraps
+107,16,1,Noodles
